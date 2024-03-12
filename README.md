@@ -18,5 +18,12 @@ It allows a user to locate any building on the Main PSU Campus, get information 
 ## Initial App Display
 Upon opening the app, the user's location is displayed but the map is centered on Old Main.
 
+<img src='ReadMeDisplayFiles/Initial-map-view.webp' width="170" height="350">
 
 ## Visual of App Walkthrough
+
+https://github.com/RoySchor/CampusMapApp/assets/70181314/7094edcf-efc2-4dcf-bf2b-55d0d76d22ce
+
+
+
+
